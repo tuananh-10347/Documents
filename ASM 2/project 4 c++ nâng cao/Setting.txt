@@ -1,0 +1,3 @@
+Common: fdsf fds,dsfds@fdsf.fds,14785236,2,2 General: Vietnamese,(GMT+07:00) /  Bangkok, Hanoi, Jakarta;Sound: 0,0,0,0;Display: 2,2,2; 
+Common: gfd gfd,gfd@gfdg.gfd,36985214,1,1 General: Vietnamese,(GMT+07:00) /  Bangkok, Hanoi, Jakarta;Sound: 0,0,0,0;Display: 1,1,1; 
+Common: dsa ds,dsa@fds.fds,14785269,1,1 General: Vietnamese,(GMT+07:00) /  Bangkok, Hanoi, Jakarta;Sound: 0,0,0,0;Display: 1,1,1; 
